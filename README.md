@@ -1,0 +1,2 @@
+# JamaiCoin
+Main
