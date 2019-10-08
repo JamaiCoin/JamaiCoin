@@ -1,9 +1,7 @@
 # JamaiCoin
 
-Main site: https://gocryp.to/
-
-Whitepaper: https://gocryp.to/whitepaper.html
-
+Main site: https://gocryp.to/\
+Whitepaper: https://gocryp.to/whitepaper.html\
 Twitter: https://twitter.com/jamaicoin
 Price info: https://LiveTokenWatch.com
 Discussion: https://bitcointalk.org/index.php?topic=5163412.0
