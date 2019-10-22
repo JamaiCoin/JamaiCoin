@@ -9,6 +9,7 @@ Reddit:https://www.reddit.com/r/JamaiCoin/
 GitHub: https://github.com/JamaiCoin  
 Linkedin: https://www.linkedin.com/company/jamaicoin/  
 
+Logo: https://gocryp.to/images/yah.png
 
 EtherScan: https://etherscan.io/token/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
 CoinGecko: https://www.coingecko.com/en/coins/jamaicoin  
