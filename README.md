@@ -2,7 +2,7 @@
 
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
-Instagram: instagram.com/jamaicoin/ (please note that Instagram is significantly more popular in Jamaica than twitter/reddit/linkedin)
+Instagram: http://instagram.com/jamaicoin/ (please note that Instagram is significantly more popular in Jamaica than twitter/reddit/linkedin)  
 Twitter: https://twitter.com/jamaicoin  
 Price info: https://LiveTokenWatch.com  
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5163412.0  
