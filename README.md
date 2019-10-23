@@ -16,7 +16,6 @@ Linkedin: https://www.linkedin.com/company/jamaicoin/
 EtherScan: https://etherscan.io/token/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
 CoinGecko: https://www.coingecko.com/en/coins/jamaicoin  
 Bloxy: https://bloxy.info/address/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
-LiveTokenWatch: https://livetokenwatch.com/coins/article/jamaican-charity-coin.html  
 CoinCodex: https://coincodex.com/crypto/jamaicoin/  
 
 ##### Exchange Listings:  
@@ -27,6 +26,9 @@ ForkDelta: https://forkdelta.app/#!/trade/0xc2856a8310af421a2a65de16428c2dec6cea
 UniSwap: https://uniswap.exchange/  
 BambooRelay: https://bamboorelay.com/trade/YAH-WETH  
 
+
+##### Press
+[New Crypto aimed at Jamaican charity and remittance launches (LiveTokenWatch)](https://livetokenwatch.com/coins/article/jamaican-charity-coin.html)  
 
 ##### Price Tracking sites
 https://www.cryptocurrencymarket.uk/currency/jamaicoin  
