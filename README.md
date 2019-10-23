@@ -26,3 +26,11 @@ EtherDelta: https://etherdelta.com/#0xc2856a8310af421a2a65de16428c2dec6ceacb36-E
 ForkDelta: https://forkdelta.app/#!/trade/0xc2856a8310af421a2a65de16428c2dec6ceacb36-ETH  
 UniSwap: https://uniswap.exchange/  
 BambooRelay: https://bamboorelay.com/trade/YAH-WETH  
+
+
+##### Price Tracking sites
+https://www.cryptocurrencymarket.uk/currency/jamaicoin
+https://coingolive.com/pt-br/coins/jamaicoin/
+https://altcoincompare.eu/currency/jamaicoin
+http://kryptokantor.com/currency/jamaicoin
+https://kvl.one/currency/jamaicoin
