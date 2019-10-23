@@ -31,6 +31,7 @@ BambooRelay: https://bamboorelay.com/trade/YAH-WETH
 [New Crypto aimed at Jamaican charity and remittance launches (LiveTokenWatch)](https://livetokenwatch.com/coins/article/jamaican-charity-coin.html)  
 
 ##### Price Tracking sites
+https://coincost.net/currency/jamaicoin
 https://www.cryptocurrencymarket.uk/currency/jamaicoin  
 https://coingolive.com/pt-br/coins/jamaicoin/  
 https://altcoincompare.eu/currency/jamaicoin  
