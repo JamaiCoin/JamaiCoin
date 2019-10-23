@@ -29,8 +29,8 @@ BambooRelay: https://bamboorelay.com/trade/YAH-WETH
 
 
 ##### Price Tracking sites
-https://www.cryptocurrencymarket.uk/currency/jamaicoin
-https://coingolive.com/pt-br/coins/jamaicoin/
-https://altcoincompare.eu/currency/jamaicoin
-http://kryptokantor.com/currency/jamaicoin
-https://kvl.one/currency/jamaicoin
+https://www.cryptocurrencymarket.uk/currency/jamaicoin  
+https://coingolive.com/pt-br/coins/jamaicoin/  
+https://altcoincompare.eu/currency/jamaicoin  
+http://kryptokantor.com/currency/jamaicoin  
+https://kvl.one/currency/jamaicoin  
