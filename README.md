@@ -17,6 +17,7 @@ EtherScan: https://etherscan.io/token/0xc2856a8310af421a2a65de16428c2dec6ceacb36
 CoinGecko: https://www.coingecko.com/en/coins/jamaicoin  
 Bloxy: https://bloxy.info/address/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
 CoinCodex: https://coincodex.com/crypto/jamaicoin/  
+CMC: https://cmc.io/coins/jamaicoin
 
 ##### Exchange Listings:  
 McAfeeDex: https://mcafeedex.com/?#YAH-ETH or https://mcafeedex.com/#0xc2856a8310af421a2a65de16428c2dec6ceacb36-ETH  
