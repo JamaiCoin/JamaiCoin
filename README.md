@@ -38,6 +38,8 @@ BambooRelay: https://bamboorelay.com/trade/YAH-WETH
 ##### Press
 [New Crypto aimed at Jamaican charity and remittance launches (LiveTokenWatch)](https://livetokenwatch.com/coins/article/jamaican-charity-coin.html)  
 
+[Another ERC-20 token. But this one is actually trying to do good. (Medium)](https://medium.com/@LiveTokenWatch/another-erc-20-token-but-this-one-is-actually-trying-to-do-good-ed6fdcb3061a)  
+
 [A look at Jamaicoin(YAH)- Can a crypto-token help reduce poverty in Jamaica? (Crypto New Media)](https://cryptonewmedia.press/2019/10/23/a-look-at-jamaicoinyah-can-a-crypto-token-help-reduce-poverty-in-jamaica/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BitcoinIndependentNewsAndBlog+%28Cryptocurrency+new+media+press%29)
 
 ---
