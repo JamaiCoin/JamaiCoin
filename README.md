@@ -1,4 +1,5 @@
-# JamaiCoin
+# JamaiCoin ![alt text](https://gocryp.to/images/yah.png "Logo Title Text 1")
+
 
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
