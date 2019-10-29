@@ -1,3 +1,7 @@
+# JamaiCoin
+
+##### Official Channels: 
+
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
 Instagram: http://instagram.com/jamaicoin/ (please note that Instagram is significantly more popular in Jamaica than twitter/reddit/linkedin)  
@@ -11,6 +15,7 @@ Linkedin: https://www.linkedin.com/company/jamaicoin/
 
 ---
 
+##### Analytics:  
 
 EtherScan: https://etherscan.io/token/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
 CoinGecko: https://www.coingecko.com/en/coins/jamaicoin  
