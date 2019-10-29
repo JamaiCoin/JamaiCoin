@@ -1,4 +1,4 @@
-# JamaiCoin ![alt text](https://gocryp.to/images/yah.png "Logo Title Text 1")
+# JamaiCoin 
 
 
 Main site: https://gocryp.to/  
@@ -44,8 +44,11 @@ https://altcoincompare.eu/currency/jamaicoin
 https://onebitco.com/currency/jamaicoin
 http://bitplace.eu/currency/jamaicoin
     
-      
+      <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
         
 
 
 Logo: https://gocryp.to/images/yah.png
+![alt text](https://gocryp.to/images/yah.png "JamaiCoin (YAH)")
