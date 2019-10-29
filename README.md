@@ -1,6 +1,5 @@
-# JamaiCoin 
-
-
+#JamaiCoin 
+---
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
 Instagram: http://instagram.com/jamaicoin/ (please note that Instagram is significantly more popular in Jamaica than twitter/reddit/linkedin)  
