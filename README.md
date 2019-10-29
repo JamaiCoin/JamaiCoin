@@ -1,6 +1,6 @@
 # JamaiCoin
 
-##### Official Channels: 
+##### Official Channels 
 
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
@@ -15,7 +15,7 @@ Linkedin: https://www.linkedin.com/company/jamaicoin/
 
 ---
 
-##### Analytics:  
+##### Analytics  
 
 EtherScan: https://etherscan.io/token/0xc2856a8310af421a2a65de16428c2dec6ceacb36  
 CoinGecko: https://www.coingecko.com/en/coins/jamaicoin  
@@ -25,7 +25,7 @@ CMC: https://cmc.io/coins/jamaicoin
 
 ---
 
-##### Exchange Listings:  
+##### Exchange Listings  
 McAfeeDex: https://mcafeedex.com/?#YAH-ETH or https://mcafeedex.com/#0xc2856a8310af421a2a65de16428c2dec6ceacb36-ETH  
 SwitchDex: https://www.switchdex.ag/#YAH-ETH or https://switchdex.ag/#0xc2856a8310af421a2a65de16428c2dec6ceacb36-ETH  
 EtherDelta: https://etherdelta.com/#0xc2856a8310af421a2a65de16428c2dec6ceacb36-ETH  
