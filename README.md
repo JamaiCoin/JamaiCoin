@@ -39,8 +39,12 @@ https://coingolive.com/pt-br/coins/jamaicoin/
 https://altcoincompare.eu/currency/jamaicoin  
 http://kryptokantor.com/currency/jamaicoin  
 https://kvl.one/currency/jamaicoin  
-
-
+https://altcoincompare.eu/currency/jamaicoin  
+https://onebitco.com/currency/jamaicoin
+http://bitplace.eu/currency/jamaicoin
+    
+      
+        
 
 
 Logo: https://gocryp.to/images/yah.png
