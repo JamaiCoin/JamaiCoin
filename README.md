@@ -1,4 +1,4 @@
-#JamaiCoin 
+JamaiCoin 
 ---
 Main site: https://gocryp.to/  
 Whitepaper: https://gocryp.to/whitepaper.html  
