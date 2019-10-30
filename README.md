@@ -42,6 +42,8 @@ BambooRelay: https://bamboorelay.com/trade/YAH-WETH
 
 [A look at Jamaicoin(YAH)- Can a crypto-token help reduce poverty in Jamaica? (Crypto New Media)](https://cryptonewmedia.press/2019/10/23/a-look-at-jamaicoinyah-can-a-crypto-token-help-reduce-poverty-in-jamaica/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+BitcoinIndependentNewsAndBlog+%28Cryptocurrency+new+media+press%29)
 
+[Press Release: Remittance solution from Jamaica pleads to support charities monthly (prlog.org) ](https://www.prlog.org/12796083-remittance-solution-from-jamaica-pleads-to-support-charities-monthly.html)
+
 ---
 
 ##### Price Tracking sites
