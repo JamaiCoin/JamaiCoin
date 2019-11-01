@@ -57,6 +57,7 @@ https://altcoincompare.eu/currency/jamaicoin
 https://onebitco.com/currency/jamaicoin  
 http://bitplace.eu/currency/jamaicoin  
 https://athcoinindex.com/coin/jamaicoin  
+http://cryptoverzicht.nl/currency/jamaicoin
 
 
 ---
