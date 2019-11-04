@@ -1,5 +1,7 @@
 # JamaiCoin
 
+Old ticker: YAH 
+New ticker as per nov 19: JAH
 ##### Official Channels 
 
 Main site: https://gocryp.to/  
