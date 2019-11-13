@@ -1,12 +1,11 @@
 # JamaiCoin
 
-Old ticker: YAH  
-New ticker as per nov 19: JAH  
+ 
 
 ##### Official Channels 
-
-Main site: https://gocryp.to/  
-Whitepaper: https://gocryp.to/whitepaper.html  
+Main site: https://jamaicoin.org/  
+https://jamaicoin.com  
+Whitepaper: https://jamaicoin.com/whitepaper.html  
 Instagram: http://instagram.com/jamaicoin/ (please note that Instagram is significantly more popular in Jamaica than twitter/reddit/linkedin)  
 YouTube: https://www.youtube.com/c/jamaicoin  
 Twitter: https://twitter.com/jamaicoin  
