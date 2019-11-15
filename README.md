@@ -14,6 +14,7 @@ BitcoinTalk: https://bitcointalk.org/index.php?topic=5163412.0
 Reddit:https://www.reddit.com/r/JamaiCoin/  
 GitHub: https://github.com/JamaiCoin  
 Linkedin: https://www.linkedin.com/company/jamaicoin/  
+Medium: https://medium.com/@jamaicoin
 
 ---
 
