@@ -1,4 +1,7 @@
 # JamaiCoin
+##### NEW  
+Investing.com:https://www.investing.com/news/cryptocurrency-news/capitol-hill-autonomous-zone-crypto-paradise-or-digital-shakedown-2205299  
+CoinTelegraph: https://m.investing.com/news/cryptocurrency-news/capitol-hill-autonomous-zone-crypto-paradise-or-digital-shakedown-2205299  
 
  
 
